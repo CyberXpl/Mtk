@@ -5,8 +5,7 @@ import os
 os.system('clear')
 
 os.system("figlet kalkulator")
-print("       BY  INDONESIA CYBER XPLOID")
-print("         Pesan=   Tidak Ada Kata Mastah")
+print("       BY MR.CyberHack")
 print('(+)=========================(+)')
 print('(1). penambahan')
 print('(2). perngurangan')
